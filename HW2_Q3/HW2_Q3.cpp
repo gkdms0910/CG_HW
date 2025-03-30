@@ -26,11 +26,6 @@ std::vector<float> OutputImage;
 
 void render()
 {
-	//Create our image. We don't want to do this in 
-	//the main loop since this may be too slow and we 
-	//want a responsive display of our beautiful image.
-	//Instead we draw to another buffer and copy this to the 
-	//framebuffer using glDrawPixels(...) every refresh
 	OutputImage.clear();
 
 	vec3 eye(0.0f);
