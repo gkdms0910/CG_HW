@@ -27,11 +27,11 @@ The Visual Studio project includes:
 
 | Assignment | Screenshot | Description |
 |------------|------------|-------------|
-| **HW1**    | ![](results/HW1.png)     | Ray Intersection |
-| **HW2_Q1** | ![](results/HW2_Q1.png)  | Phong Shading |
-| **HW2_Q2** | ![](results/HW2_Q2.png)  | Gamma Correction |
-| **HW2_Q3** | ![](results/HW2_Q3.png)  | Antialiasing |
-| **HW5_Q1** | ![](results/HW5_Q1.png)  | Transformations and Rasterization<br>❗Used OpenGL for displaying the final rendered image on screen. |
+| **HW1**    | ![](results/HW1.png)     | **Ray Intersection** |
+| **HW2_Q1** | ![](results/HW2_Q1.png)  | **Phong Shading** |
+| **HW2_Q2** | ![](results/HW2_Q2.png)  | **Gamma Correction** |
+| **HW2_Q3** | ![](results/HW2_Q3.png)  | **Antialiasing** |
+| **HW5_Q1** | ![](results/HW5_Q1.png)  | **Transformations and Rasterization**<br><br>❗Used OpenGL for displaying the final rendered image on screen. |
 
 > All screenshots are stored in the `results/` directory.
 
