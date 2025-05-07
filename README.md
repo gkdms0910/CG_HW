@@ -51,7 +51,7 @@ The Visual Studio project includes:
 1. Clone the repository or download as ZIP.
 2. Open the `.sln` file with Visual Studio.
 3. Make sure the configuration is set to `x64` and `Release` or `Debug`.
-4. Press `Ctrl + F5` to build and run the project.
+4. Select the .cpp file with the same name as the project you want to run, then press Ctrl + F5 to execute it.
 
 > If you get missing GLFW errors, download and link GLFW library or use NuGet to install it inside Visual Studio.
 
