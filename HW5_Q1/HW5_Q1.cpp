@@ -130,7 +130,7 @@ int main(int argc, char** argv) {
     glutInit(&argc, argv);
     glutInitDisplayMode(GLUT_SINGLE | GLUT_RGB);
     glutInitWindowSize(WIDTH, HEIGHT);
-    glutCreateWindow("CPU Rasterized Sphere");
+    glutCreateWindow("HW5_Q1");
 
     glMatrixMode(GL_PROJECTION);
     glLoadIdentity();
