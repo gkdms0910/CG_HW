@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{3b39c2fc-cfc0-4c1d-984f-f3a79acc0e53}</ProjectGuid>
-    <RootNamespace>HW5Q1</RootNamespace>
+    <ProjectGuid>{993768bc-ecfb-4d55-a650-cdbed06dfcfe}</ProjectGuid>
+    <RootNamespace>HW6Q2</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -132,8 +132,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="C:\Users\EunHa\Downloads\sphere_scene.cpp" />
-    <ClCompile Include="HW5_Q1.cpp" />
+    <ClCompile Include="..\HW5_Q1\sphere_scene.cpp" />
+    <ClCompile Include="HW6_Q2.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
