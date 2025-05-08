@@ -14,6 +14,7 @@ The Visual Studio project includes:
   - `HW2_Q1`
   - `HW2_Q2`
   - `HW2_Q3`
+  - `HW5_Q1`
 - `.sln` (solution)
 - `include/`
 - `lib/`
@@ -26,10 +27,11 @@ The Visual Studio project includes:
 
 | Assignment | Screenshot | Description |
 |------------|------------|-------------|
-| **HW1**    | ![](results/HW1.png)     | Ray Intersection |
-| **HW2_Q1** | ![](results/HW2_Q1.png)  | Phong Shading |
-| **HW2_Q2** | ![](results/HW2_Q2.png)  | Gamma Correction |
-| **HW2_Q3** | ![](results/HW2_Q3.png)  | Antialiasing |
+| **HW1**    | ![](results/HW1.png)     | **Ray Intersection** |
+| **HW2_Q1** | ![](results/HW2_Q1.png)  | **Phong Shading** |
+| **HW2_Q2** | ![](results/HW2_Q2.png)  | **Gamma Correction** |
+| **HW2_Q3** | ![](results/HW2_Q3.png)  | **Antialiasing** |
+| **HW5_Q1** | ![](results/HW5_Q1.png)  | **Transformations and Rasterization**<br><br>❗Used OpenGL for displaying the final rendered image on screen. |
 
 > All screenshots are stored in the `results/` directory.
 
@@ -49,7 +51,7 @@ The Visual Studio project includes:
 1. Clone the repository or download as ZIP.
 2. Open the `.sln` file with Visual Studio.
 3. Make sure the configuration is set to `x64` and `Release` or `Debug`.
-4. Press `Ctrl + F5` to build and run the project.
+4. Select the .cpp file with the same name as the project you want to run, then press Ctrl + F5 to execute it.
 
 > If you get missing GLFW errors, download and link GLFW library or use NuGet to install it inside Visual Studio.
 
