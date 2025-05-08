@@ -15,6 +15,9 @@ The Visual Studio project includes:
   - `HW2_Q2`
   - `HW2_Q3`
   - `HW5_Q1`
+  - `HW6_Q1`
+  - `HW6_Q2`
+  - `HW6_Q3`
 - `.sln` (solution)
 - `include/`
 - `lib/`
@@ -32,6 +35,9 @@ The Visual Studio project includes:
 | **HW2_Q2** | ![](results/HW2_Q2.png)  | **Gamma Correction** |
 | **HW2_Q3** | ![](results/HW2_Q3.png)  | **Antialiasing** |
 | **HW5_Q1** | ![](results/HW5_Q1.png)  | **Transformations and Rasterization**<br><br>❗Used OpenGL for displaying the final rendered image on screen. |
+| **HW6_Q1** | ![](results/HW6_Q1.png)  | **Transformations and Rasterization_Flat Shading**<br><br>❗Used OpenGL for displaying the final rendered image on screen. |
+| **HW6_Q2** | ![](results/HW6_Q2.png)  | **Transformations and Rasterization_Gouraud Shading**<br><br>❗Used OpenGL for displaying the final rendered image on screen. |
+| **HW6_Q3** | ![](results/HW6_Q3.png)  | **Transformations and Rasterization_Phong Shading**<br><br>❗Used OpenGL for displaying the final rendered image on screen. |
 
 > All screenshots are stored in the `results/` directory.
 
