@@ -18,6 +18,7 @@ The Visual Studio project includes:
   - `HW6_Q1`
   - `HW6_Q2`
   - `HW6_Q3`
+  - `HW7_Q1`
 - `.sln` (solution)
 - `include/`
 - `lib/`
@@ -38,6 +39,7 @@ The Visual Studio project includes:
 | **HW6_Q1** | ![](results/HW6_Q1.png)  | **Transformations and Rasterization**<br>**Flat Shading**<br><br>❗Used OpenGL for displaying the final rendered image on screen. |
 | **HW6_Q2** | ![](results/HW6_Q2.png)  | **Transformations and Rasterization**<br>**Gouraud Shading**<br><br>❗Used OpenGL for displaying the final rendered image on screen. |
 | **HW6_Q3** | ![](results/HW6_Q3.png)  | **Transformations and Rasterization**<br>**Phong Shading**<br><br>❗Used OpenGL for displaying the final rendered image on screen. |
+| **HW7_Q7** | ![](results/HW7_Q1.png)  | **Phong Shading** |
 
 > All screenshots are stored in the `results/` directory.
 
